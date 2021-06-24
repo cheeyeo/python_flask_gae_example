@@ -47,4 +47,6 @@ Note that logging will not always appear when running `gcloud app logs tail` in 
 
 ### More References
 
-* (Google App Engine Documentation)[https://cloud.google.com/appengine/docs/python]
+* [Google App Engine Documentation](https://cloud.google.com/appengine/docs/python)
+
+* [GCloud APP CLI reference](https://cloud.google.com/sdk/gcloud/reference/app/)
