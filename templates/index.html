@@ -1,0 +1,14 @@
+<!doctype html>
+<title>Celsius to Farenheit Converter</title>
+<body>
+<form action="/" method="get">
+	<input type="text" name="celsius">
+  <input type="submit" value="Convert To Farenheit">
+</form>
+
+{% if farenheit %}
+  <h2>Farenheit {{ farenheit }}</h2>
+{% endif %}
+
+</body>
+</html>
