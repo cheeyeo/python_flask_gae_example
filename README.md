@@ -42,3 +42,9 @@ python main.py
   gcloud projects delete <project id>
   
   ```
+
+Note that logging will not always appear when running `gcloud app logs tail` in the CLI but will show up under the Log viewer in the Dashboard. This could be due to the changes between the Flexible and Standard Environment...
+
+### More References
+
+* (Google App Engine Documentation)[https://cloud.google.com/appengine/docs/python]
